@@ -21,5 +21,5 @@ Follow these steps to run the app:
 1.⁠ ⁠Clone the repository to your local machine:
 
 ```bash
-git@github.com:otahir-21/ObjectDetectionApp.git
+[git@github.com:otahir-21/ObjectDetectionApp.git](https://github.com/otahir-21/ObjectDetectionApp.git)
 cd object-detection-app
